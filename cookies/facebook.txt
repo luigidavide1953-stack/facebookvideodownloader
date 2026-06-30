@@ -1,0 +1,2 @@
+# Place your Facebook cookies here in JSON or Netscape format
+[]
